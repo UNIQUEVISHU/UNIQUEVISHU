@@ -1,13 +1,13 @@
 # Hi 👋, I'm Vishu
 
-## 🚀 A Passionate Software Developer & ICE Student
+## 🚀 A Passionate Software Developer 
 
 - 🔭 I’m currently working on **Full Stack Web Development Projects**
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA) with Java/C++**
 - 👯 I’m looking to collaborate on **Open Source and MERN Stack Projects**
 - 🤝 I’m looking for help with **Advanced Backend Development & System Design**
 - 💬 Ask me about **React, JavaScript, Appwrite, and Web Development**
-- 📫 How to reach me: **vishu@example.com**
+- 📫 How to reach me: uniquevishu104@gmail.com
 - ⚡ Fun fact: *I love building projects more than watching tutorials 😄*
 
 ---
@@ -31,28 +31,17 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
----
-
-## 🔥 Current Goals
-
-- Become a **Top Tier Software Engineer (MANG / PANG level)**
-- Master **DSA + System Design**
-- Build **real-world scalable projects**
-- Contribute to **Open Source**
 
 ---
 
 ## 🌐 Connect with me
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: vishu@example.com
+- LinkedIn: (https://www.linkedin.com/in/vishu-rajput-2a6797324/)
+- GitHub: https://github.com/UNIQUEVISHU
+- Email: uniquevishu104@gmail.com
 
 ---
 
