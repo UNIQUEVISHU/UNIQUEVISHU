@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 Socials:
-(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uniquevishu104@gmail.com) 
+[(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uniquevishu104@gmail.com) ](https://www.linkedin.com/in/vishu-rajput-2a6797324/)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
